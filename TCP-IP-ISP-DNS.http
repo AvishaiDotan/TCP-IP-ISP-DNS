@@ -1,0 +1,6 @@
+@TCP_IP_ISP_DNS_HostAddress = http://localhost:5276
+
+GET {{TCP_IP_ISP_DNS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
